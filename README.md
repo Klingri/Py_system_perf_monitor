@@ -30,7 +30,7 @@ There should be no common problems or issues.
 Contributors names and contact info
 
 Klingri  
-ex. [@Klingri](https://github.com/Klingri)
+[@Klingri](https://github.com/Klingri)
 
 ## Version History
 
